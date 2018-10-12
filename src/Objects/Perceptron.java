@@ -45,7 +45,7 @@ public class Perceptron
 
     static
     {
-	out.println("In Good We Trust");
+	out.println("In God We Trust");
     }
 
     /**
