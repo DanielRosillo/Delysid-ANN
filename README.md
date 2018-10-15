@@ -2,7 +2,7 @@
 
 ![publicacion3](https://user-images.githubusercontent.com/23446483/46239966-043d3200-c366-11e8-844a-49954c053228.jpg)
 
-##Algo Mas...
+## Algo Mas...
 
 Los procesos mentales permiten a los agentes responder a estímulos del mundo exterior, este mecanismo internamente representa el conocimiento a través de complejas estructuras que mapean la información que es resultado de las percepciones del agente a lo largo del tiempo. El conexionismo aborda esta manera de representar la realidad, más en concreto en el ámbito de la inteligencia artificial se estudia la aplicación que esto tiene para resolver problemas.
 
