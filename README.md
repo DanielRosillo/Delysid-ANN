@@ -9,6 +9,9 @@ Los procesos mentales permiten a los agentes responder a estímulos del mundo ex
 La estrategia conexionista se centra principalmente en la filosofía divide y vencerás, apoyándose en modelos lógico-matemáticos cuya relación final es intrínseca al problema, y que, al implementarse en tiempo de ejecución, desencadena una serie de hechos y acciones que de estar en perfecta armonía darán como resultado el aprendizaje automático.
 
 
+## Tutorial
+https://foro.hackplayers.com/discussion/331/delysid-ann-perceptron-multicapa-java-machine-learning#latest
+
 ## Description
 
 Create determinist agents.
