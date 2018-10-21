@@ -23,7 +23,7 @@ Create determinist agents.
 
 The Library requires Java SE Development Kit 10 or High
 
-### Dynamic Structures !!!
+### Easy Structures !!!
 
 ```
 agent = new Perceptron("Giru");
@@ -32,10 +32,13 @@ agent.setAlpha(alpha);
 
 ```
 
+
+
 ## Authors
 
-* **Daniel Rosillo** - *Initial work* -
+ **Daniel Rosillo** - *Initial work* -
+ danielrosillo@outlook.es
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md] file for details.
