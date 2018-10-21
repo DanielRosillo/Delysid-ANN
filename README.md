@@ -9,7 +9,7 @@ Los procesos mentales permiten a los agentes responder a estímulos del mundo ex
 La estrategia conexionista se centra principalmente en la filosofía divide y vencerás, apoyándose en modelos lógico-matemáticos cuya relación final es intrínseca al problema, y que, al implementarse en tiempo de ejecución, desencadena una serie de hechos y acciones que de estar en perfecta armonía darán como resultado el aprendizaje automático.
 
 
-## Tutorial
+## Guide in Spanish
 https://foro.hackplayers.com/discussion/331/delysid-ann-perceptron-multicapa-java-machine-learning#latest
 
 ## Description
@@ -39,7 +39,7 @@ The principal agent converge foreach neuron on system with the sigmoid function.
 ![sig](https://user-images.githubusercontent.com/23446483/47272529-b4105480-d54c-11e8-9b18-bb9841a396d1.png)
 
 
-In the last layer the out is evaluate from way binary .
+In the last layer the out is evaluate from way binary.
 	
 
 
