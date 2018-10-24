@@ -14,7 +14,7 @@ https://foro.hackplayers.com/discussion/331/delysid-ann-perceptron-multicapa-jav
 
 ## Description
 
-Create determinist agents.
+Create determinist and connectionist agents.
 
 ### Requirements
 
