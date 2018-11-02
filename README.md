@@ -41,7 +41,7 @@ The principal agent converge foreach neuron on system with the sigmoid function.
 
 In the last layer their neurons is evaluate from way binary.
 	
-
+## The implementation include a simple demo of delysid work, run the class "DEMO" and the agent learn the logic gates.
 
 ## Authors
 
