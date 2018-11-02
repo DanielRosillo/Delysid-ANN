@@ -2,6 +2,8 @@
 
 ![publicacion3](https://user-images.githubusercontent.com/23446483/46239966-043d3200-c366-11e8-844a-49954c053228.jpg)
 
+## The implementation include a simple demo of delysid work, run the class "DEMO" and the agent learn the logic gates.
+
 ## CONTEXT
 
 Los procesos mentales permiten a los agentes responder a estímulos del mundo exterior, este mecanismo internamente representa el conocimiento a través de complejas estructuras que mapean la información, resultado de las percepciones del agente a lo largo del tiempo. El conexionismo aborda esta manera de representar la realidad, más en concreto en el ámbito de la inteligencia artificial se estudia la aplicación que tiene para resolver problemas.
@@ -41,8 +43,6 @@ The principal agent converge foreach neuron on system with the sigmoid function.
 
 In the last layer their neurons is evaluate from way binary.
 	
-## The implementation include a simple demo of delysid work, run the class "DEMO" and the agent learn the logic gates.
-
 ## Authors
 
  **Daniel Rosillo** - *Initial work* -
