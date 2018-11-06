@@ -8,14 +8,14 @@ import Interfaces.Context;
 /**
  * @author Daniel Rosillo 
  *         Esta clase representa una neurona elemental, segun los
- *         modelos descritos para el perceptron.
+ *         modelos descritos para el perceptron y basados en la biologia humana.
  */
 public class Neuron implements Context
 {
     protected Double out;// La salida asociada a la neurona durante la convergencia.
-    protected ArrayList<Double> w;// Los pesos de la neurona.
-    protected double u;// Umbral de la neurona.
-
+    protected ArrayList<Double> w;// Pesos.
+    protected double u;// Umbral.
+    
     public Neuron(ArrayList<Double> w, double u)
     {
 	this.u = u;
