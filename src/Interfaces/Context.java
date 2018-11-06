@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Optional;
 
 /**
- * @author Daniel Rosillo - veni, vidi, veci. 
+ * @author Daniel Rosillo - veni, vidi, vici. 
  *         Esta clase representa el contexto
  *         de trabajo de una neurona simple. Entiendace por contexto de trabajo,
  *         las operaciones matematicas que se llevan acabo en la neurona.
