@@ -8,7 +8,7 @@
 
 Los procesos mentales permiten a los agentes responder a estímulos del mundo exterior, este mecanismo internamente representa el conocimiento a través de complejas estructuras que mapean la información, resultado de las percepciones del agente a lo largo del tiempo. El conexionismo aborda esta manera de representar la realidad, más en concreto en el ámbito de la inteligencia artificial se estudia la aplicación que tiene para resolver problemas.
 
-La estrategia conexionista se centra principalmente en la filosofía divide y vencerás, apoyándose en modelos lógico-matemáticos cuya relación final es intrínseca al problema, y que, al implementarse en tiempo de ejecución, desencadena una serie de hechos y acciones que de estar en perfecta armonía darán como resultado el aprendizaje automático.
+La estrategia conexionista se centra principalmente en la filosofía divide y vencerás, apoyándose en modelos lógico-matemáticos cuya relación final es intrínseca al problema, y que al implementarse en tiempo de ejecución, desencadena una serie de hechos y acciones que de estar en perfecta armonía darán como resultado el aprendizaje automático.
 
 
 ## Post en Español
