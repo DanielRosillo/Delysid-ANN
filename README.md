@@ -1,6 +1,6 @@
 # Delysid-ANN デリシド 1997
 
-![publicacion3](https://user-images.githubusercontent.com/23446483/46239966-043d3200-c366-11e8-844a-49954c053228.jpg)
+![lulu banner](https://user-images.githubusercontent.com/23446483/49631775-ecfb7000-f9b8-11e8-9ae3-cdd6168bfe30.jpeg)
 
 ## The implementation include a simple demo of delysid, run the class "DEMO" and the agent learn the logic gates.
 
