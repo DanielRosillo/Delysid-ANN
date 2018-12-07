@@ -34,7 +34,7 @@ agent.setAlpha(alpha);
 
 ```
 
-## How does it work?
+## How does it works?
 
 The principal agent converge foreach neuron on system with the sigmoid function.
 
