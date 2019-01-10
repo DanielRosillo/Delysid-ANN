@@ -46,7 +46,7 @@ In the last layer their neurons are evaluate from binary way.
 ## Authors
 
  **Daniel Rosillo** - *Initial work* -
- danielrosillo@outlook.es
+ Danielrosillodev@gmail.com
 
 ## License
 
