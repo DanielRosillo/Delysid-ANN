@@ -34,7 +34,7 @@ agent.setAlpha(alpha);
 
 ```
 
-## How does it works?
+## How does it work?
 
 The principal agent converge foreach neuron on system with the sigmoid function.
 
@@ -51,3 +51,6 @@ In the last layer their neurons are evaluate from binary way.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md] file for details.
+
+## Support && Feedback
+https://twitter.com/DanielRosillo_
