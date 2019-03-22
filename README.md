@@ -53,4 +53,4 @@ In the last layer their neurons are evaluate from binary way.
 This project is licensed under the MIT License - see the [LICENSE.md] file for details.
 
 ## Support && Feedback
-https://twitter.com/DanielRosillo_
+twitter.com/DanielRosillo_
