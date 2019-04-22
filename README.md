@@ -54,3 +54,8 @@ This project is licensed under the MIT License - see the [LICENSE.md] file for d
 
 ## Support && Feedback
 https://twitter.com/DanielRosillo22
+
+##More of my...
+
+##TRY THE NEW WAY TO HANDLE YOUR PASSWORDS IN ANDROID
+https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager
