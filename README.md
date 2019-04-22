@@ -1,3 +1,8 @@
+## More of my...
+
+## TRY THE NEW WAY TO HANDLE YOUR PASSWORDS IN ANDROID
+https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager
+
 # Delysid-ANN デリシド 1997
 
 ![lulu banner](https://user-images.githubusercontent.com/23446483/49631775-ecfb7000-f9b8-11e8-9ae3-cdd6168bfe30.jpeg)
@@ -55,7 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE.md] file for d
 ## Support && Feedback
 https://twitter.com/DanielRosillo22
 
-##More of my...
-
-##TRY THE NEW WAY TO HANDLE YOUR PASSWORDS IN ANDROID
-https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager
