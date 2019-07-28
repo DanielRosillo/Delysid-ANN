@@ -1,13 +1,8 @@
-## More of me...
-
-## TRY THE NEW WAY TO HANDLE YOUR PASSWORDS ON ANDROID
-[<a href='https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>](url)
-
 # Delysid-ANN デリシド 1997
 
 ![lulu banner](https://user-images.githubusercontent.com/23446483/49631775-ecfb7000-f9b8-11e8-9ae3-cdd6168bfe30.jpeg)
 
-## The implementation include a simple demo of delysid, run the class "DEMO" and the agent learns the logic gates.
+## The implementation include a simple demo of Delysid. Run the class "DEMO", and the agent learns the logic gates.
 
 ## CONTEXT
 
@@ -25,7 +20,7 @@ Create determinist and connectionist agents.
 
 ### Requirements
 
-### Power by Java JDK 10
+### Powered by Java JDK 10
 ![36222735_1731650116889496_8672753406986682368_n](https://user-images.githubusercontent.com/23446483/41886236-26f7ba94-78c1-11e8-963a-cae5eccb6394.jpg)
 
 The Library requires Java SE Development Kit 10 or High
@@ -44,6 +39,9 @@ agent.setAlpha(alpha);
 The principal agent converge foreach neuron on system with the sigmoid function.
 
 ![sig](https://user-images.githubusercontent.com/23446483/47272529-b4105480-d54c-11e8-9b18-bb9841a396d1.png)
+
+## TRY THE NEW WAY TO HANDLE YOUR PASSWORDS ON ANDROID
+[<a href='https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>](url)
 
 
 In the last layer their neurons are evaluate from binary way.
