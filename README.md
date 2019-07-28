@@ -40,7 +40,7 @@ The principal agent converge foreach neuron on system with the sigmoid function.
 
 ![sig](https://user-images.githubusercontent.com/23446483/47272529-b4105480-d54c-11e8-9b18-bb9841a396d1.png)
 
-The output neurons be evaluated of binary way.
+The output neurons be evaluate of binary way.
 	
 ## Authors
 
