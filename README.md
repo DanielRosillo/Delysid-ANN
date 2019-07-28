@@ -40,10 +40,6 @@ The principal agent converge foreach neuron on system with the sigmoid function.
 
 ![sig](https://user-images.githubusercontent.com/23446483/47272529-b4105480-d54c-11e8-9b18-bb9841a396d1.png)
 
-## TRY THE NEW WAY TO HANDLE YOUR PASSWORDS ON ANDROID
-[<a href='https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>](url)
-
-
 In the last layer their neurons are evaluate from binary way.
 	
 ## Authors
@@ -57,4 +53,8 @@ This project is licensed under the MIT License - see the [LICENSE.md] file for d
 
 ## Support && Feedback
 https://twitter.com/DanielRosillo22
+
+## TRY THE NEW WAY TO HANDLE YOUR PASSWORDS ON ANDROID
+[<a href='https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>](url)
+
 
