@@ -7,8 +7,7 @@ import java.util.Random;
 /**
  * @author Daniel Rosillo 
  *         Esta clase representa un sistema neuronal elemental
- *         para un agente. This class's a vaguely representation of a real
- *         neuronal system.
+ *         para un agente.
  */
 public class Sys
 {

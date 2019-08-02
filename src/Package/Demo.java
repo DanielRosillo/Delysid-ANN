@@ -85,7 +85,7 @@ public class Demo
 		break;
 
 		case "d":
-		    out.println("\nDelysid 1.0 | Build 10/11/18 | Power by: JAVA 10 | Developer: Daniel Rosillo");
+		    out.println("\nDelysid 1.1 | Build 02/08/19 | Powered by: JAVA 10 | Developer: Daniel Rosillo");
 
 		break;
 
