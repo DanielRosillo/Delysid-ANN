@@ -23,7 +23,7 @@ Create determinist and connectionist agents.
 ### Powered by Java JDK 10
 ![36222735_1731650116889496_8672753406986682368_n](https://user-images.githubusercontent.com/23446483/41886236-26f7ba94-78c1-11e8-963a-cae5eccb6394.jpg)
 
-The Library requires Java SE Development Kit 10 or High
+The agent requires Java SE Development Kit 10 or Higher.
 
 ### Easy Structures !!!
 
@@ -36,7 +36,7 @@ agent.setAlpha(alpha);
 
 ## How does it work?
 
-The neurons converge until that the system learn.
+The neurons converge until that the system learn. The sigmoid function can find the best representation of problem through time.
 
 ![sig](https://user-images.githubusercontent.com/23446483/47272529-b4105480-d54c-11e8-9b18-bb9841a396d1.png)
 
