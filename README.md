@@ -36,11 +36,11 @@ agent.setAlpha(alpha);
 
 ## How does it work?
 
-The principal agent converge foreach neuron on system with the sigmoid function.
+The neurons converge until that the system learn.
 
 ![sig](https://user-images.githubusercontent.com/23446483/47272529-b4105480-d54c-11e8-9b18-bb9841a396d1.png)
 
-The output neurons be evaluate of binary way.
+
 	
 ## Authors
 
