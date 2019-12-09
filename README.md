@@ -34,7 +34,7 @@ agent.setAlpha(alpha);
 
 ```
 
-## How does it work?
+## How does it works?
 
 The neurons converge until that the system learn. The sigmoid function can find the best representation of problem through time.
 
